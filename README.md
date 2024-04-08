@@ -21,7 +21,8 @@ Portanto os nomes dos códigos fontes são:
 blinder.py (Linux)
 blinder_w.py (MS-Windows)
 
-Para facilitar o uso em plataforma MS-Windows, deixei também o binário compilado com o nome blinder_w.exe
+Para compilar o código fonte em suas respectivas plataformas, coloquei também um arquivo em Python que deve ser executado no mesmo diretório onde os fontes estão. 
+Seguir as instruções que são indicar o nome o arquivo a ser compilado e informar se vai usar o ambiente gráfico, que neste caso deve responder com "S". 
 
 Dependências:
 PyQT5
